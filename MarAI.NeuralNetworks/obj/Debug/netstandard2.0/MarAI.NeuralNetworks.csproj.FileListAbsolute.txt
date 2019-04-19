@@ -1,0 +1,12 @@
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.NeuralNetworks\bin\Debug\netstandard2.0\MarAI.NeuralNetworks.deps.json
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.NeuralNetworks\bin\Debug\netstandard2.0\MarAI.NeuralNetworks.dll
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.NeuralNetworks\bin\Debug\netstandard2.0\MarAI.NeuralNetworks.pdb
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.NeuralNetworks\obj\Debug\netstandard2.0\MarAI.NeuralNetworks.csprojAssemblyReference.cache
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.NeuralNetworks\obj\Debug\netstandard2.0\MarAI.NeuralNetworks.csproj.CoreCompileInputs.cache
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.NeuralNetworks\obj\Debug\netstandard2.0\MarAI.NeuralNetworks.AssemblyInfoInputs.cache
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.NeuralNetworks\obj\Debug\netstandard2.0\MarAI.NeuralNetworks.AssemblyInfo.cs
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.NeuralNetworks\obj\Debug\netstandard2.0\MarAI.NeuralNetworks.dll
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.NeuralNetworks\obj\Debug\netstandard2.0\MarAI.NeuralNetworks.pdb
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.NeuralNetworks\bin\Debug\netstandard2.0\MarAI.Mathematics.dll
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.NeuralNetworks\bin\Debug\netstandard2.0\MarAI.Mathematics.pdb
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.NeuralNetworks\obj\Debug\netstandard2.0\MarAI.NeuralNetworks.csproj.CopyComplete

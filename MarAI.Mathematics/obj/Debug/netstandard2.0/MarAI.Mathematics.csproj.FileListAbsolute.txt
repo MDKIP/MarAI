@@ -1,0 +1,9 @@
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.Mathematics\bin\Debug\netstandard2.0\MarAI.Mathematics.deps.json
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.Mathematics\bin\Debug\netstandard2.0\MarAI.Mathematics.dll
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.Mathematics\bin\Debug\netstandard2.0\MarAI.Mathematics.pdb
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.Mathematics\obj\Debug\netstandard2.0\MarAI.Mathematics.csprojAssemblyReference.cache
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.Mathematics\obj\Debug\netstandard2.0\MarAI.Mathematics.csproj.CoreCompileInputs.cache
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.Mathematics\obj\Debug\netstandard2.0\MarAI.Mathematics.AssemblyInfoInputs.cache
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.Mathematics\obj\Debug\netstandard2.0\MarAI.Mathematics.AssemblyInfo.cs
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.Mathematics\obj\Debug\netstandard2.0\MarAI.Mathematics.dll
+F:\Projekty\Projekty Visual Studio\MarAI\MarAI.Mathematics\obj\Debug\netstandard2.0\MarAI.Mathematics.pdb
