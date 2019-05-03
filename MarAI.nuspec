@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MarAI</id>
+    <version>1.0.3</version>
+    <authors>Marek Dzięcioł</authors>
+    <owners>Marek Dzięcioł</owners>
+	<licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>AI Library</description>
+    <releaseNotes>Change perceptron's parameters initialization to repair big neural networks (tanh) problem</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>NeuralNetworks AI</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+	<file src="MarAI.Mathematics\bin\Debug\netstandard2.0\MarAI.Mathematics.dll" target="lib"></file>
+	<file src="MarAI.NeuralNetworks\bin\Debug\netstandard2.0\MarAI.NeuralNetworks.dll" target="lib"></file>
+	<file src="MarAI.Visualization\bin\Debug\MarAI.Visualization.dll" target="lib"></file>
+  </files>
+</package>

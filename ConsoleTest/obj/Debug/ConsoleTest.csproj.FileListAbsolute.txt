@@ -107,3 +107,5 @@ F:\Projekty\Projekty Visual Studio\MarAI\ConsoleTest\bin\Debug\MarAI.NeuralNetwo
 F:\Projekty\Projekty Visual Studio\MarAI\ConsoleTest\bin\Debug\MarAI.Mathematics.pdb
 F:\Projekty\Projekty Visual Studio\MarAI\ConsoleTest\bin\Debug\MarAI.NeuralNetworks.pdb
 F:\Projekty\Projekty Visual Studio\MarAI\ConsoleTest\obj\Debug\ConsoleTest.csproj.CopyComplete
+F:\Projekty\Projekty Visual Studio\MarAI\ConsoleTest\bin\Debug\MarAI.Visualization.dll
+F:\Projekty\Projekty Visual Studio\MarAI\ConsoleTest\bin\Debug\MarAI.Visualization.pdb
